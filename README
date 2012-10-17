@@ -1,0 +1,12 @@
+WHAT
+===========================================
+KerePic is a picture feed browser.
+Essentially a long list view which
+gets populated with pictures progressively
+
+
+TECH
+===========================================
+- Android 2.3 +
+- Scala 2.9
+- SBT
