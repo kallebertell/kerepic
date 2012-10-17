@@ -1,8 +1,14 @@
 WHAT
 ===========================================
 KerePic is a picture feed browser.
-Essentially a long list view which
-gets populated with pictures progressively
+Essentially a long list view which gets
+populated with pictures progressively
+
+
+WHY
+===========================================
+I wanted to try out Scala; and see what
+it's like to do Scala for Android.
 
 
 TECH
